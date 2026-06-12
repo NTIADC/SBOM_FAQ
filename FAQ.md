@@ -38,6 +38,8 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
    + [Q: How does SBOM relate to OpenC2?](#q-how-does-sbom-relate-to-openc2)
    + [Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?](#q-how-does-sbom-relate-to-manufacturer-usage-descriptions-mud)
    + [Q: How does SBOM relate to DBOM?](#q-how-does-sbom-relate-to-dbom)
+   + [Q: How does SBOM relate to VEX and CSAF?](#q-how-does-sbom-relate-to-vex-and-csaf) 
+
 - [GET INVOLVED](#get-involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
 
@@ -390,6 +392,10 @@ https://csrc.nist.gov/publications/detail/sp/1800-15/draft
 A: DBoM is a common backbone for attestation sharing including
 data such as SBOMs among supply chain partners.
 For additional details, see https://github.com/DBOMproject​.
+
+## Q: How does SBOM relate to VEX and CSAF?
+A: The [Vulnerability Exploitability eXchange (VEX)](https://www.ntia.doc.gov/files/ntia/publications/framing_2021-04-29_002.pdf) is an effort to convey the exposure or exploitability of security vulnerabilities, particularly in downstream components. The [OASIS Common Security Advisory Framework (CSAF)](https://github.com/oasis-tcs/csaf/tree/master/csaf_2.0) is a way to provide automated machine-readable disclosure of cybersecurity vulnerabilities. The [OASIS CSAF Technical Committee](https://oasis-open.github.io/csaf-documentation/) is chartered to make a major revision to the Common Vulnerability Reporting Framework (CVRF) under a new name for the framework that reflects the primary purpose: a Common Security Advisory Framework (CSAF). The VEX team and CSAF are working very closely to create a scalable ecosystem for vulnerability information reporting and exchange.
+
 
 # GET INVOLVED
 
